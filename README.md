@@ -1,2 +1,2 @@
 # Nenu-Super-Women
-Nenu Super Women in Aha's dataset
+Dataset of Nenu Super Women (season 1) in Aha OTT Platform.

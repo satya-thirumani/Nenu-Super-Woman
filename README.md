@@ -1,2 +1,58 @@
 # Nenu-Super-Women
 Dataset of Nenu Super Women (season 1) in Aha OTT Platform.
+
+Dataset has below features/columns:
+- Season Number - Season number
+- Season Start - Season first aired date
+- Season End - Season last aired date
+- Episode Number - Episode number within the season
+- Pitch Number - Overall pitch number
+- Startup Name - Startup company name
+- Industry - Industry name or type
+- Business Description - Business Description
+- Company Website - Company Website URL
+- Entrepreneur Names - Name of the entrepreneur
+- Number of Presenters - Number of presenters
+- Pitchers Average Age - All pitchers average age, <30 young, 30-50 middle, >50 old
+- Started in - Year in which startup was started/incorporated
+- Yearly Revenue - Yearly revenue, in lakhs INR, -1 means negative revenue, 0 means pre-revenue
+- Monthly Sales - Total monthly sales, in lakhs
+- Gross Margin - Gross margin/profit of company, in percentages
+- Net Margin - Net margin/profit of company, in percentages
+- SKUs - Stock Keeping Units
+- Original Ask Amount - Original Ask Amount, in lakhs INR
+- Original Offered Equity - Original Offered Equity, in percentages
+- Valuation Requested - Valuation Requested, in lakhs INR
+- Received Offer - Received offer or not, 1-received, 0-not received
+- Accepted Offer - Accepted offer or not, 1-accepted, 0-rejected
+- Total Deal Amount - Total Deal Amount, in lakhs INR
+- Total Deal Equity - Total Deal Equity, in percentages
+- Total Deal Debt - Total Deal Debt, in lakhs INR
+- Debt Interest - Debt interest rate, in percentages
+- Deal Valuation - Deal Valuation, in lakhs INR
+- Number of Angels in deal - Number of sharks involved in deal
+- Investment Amount Per Angel - Investment Amount Per Angel
+- Equity Per Angel - Equity Per Angel
+- Deal has conditions - Deal has conditions or not?
+- Has Patents - Pitcher has Patents? 1-yes, 0-no
+- Deepa Investment Amount - Deepa Investment Amount, in lakhs INR
+- Deepa Investment Equity - Deepa Investment Equity, in percentages
+- Deepa Debt Amount - Deepa Debt Amount, in lakhs INR
+- Renuka Investment Amount - Renuka Investment Amount, in lakhs INR
+- Renuka Investment Equity - Renuka Investment Equity, in percentages
+- Renuka Debt Amount - Renuka Debt Amount, in lakhs INR
+- Sridhar Investment Amount - Sridhar Investment Amount, in lakhs INR
+- Sridhar Investment Equity - Sridhar Investment Equity, in percentages
+- Sridhar Debt Amount - Sridhar Debt Amount, in lakhs INR
+- Rohit Investment Amount - Rohit Investment Amount, in lakhs INR
+- Rohit Investment Equity - Rohit Investment Equity, in percentages
+- Rohit Debt Amount - Rohit Debt Amount, in lakhs INR
+- Sindhura Investment Amount - Sindhura Investment Amount, in lakhs INR
+- Sindhura Investment Equity - Sindhura Investment Equity, in percentages
+- Sindhura Debt Amount - Sindhura Debt Amount, in lakhs INR
+- Sudhakar Investment Amount - Sudhakar Investment Amount, in lakhs INR
+- Sudhakar Investment Equity - Sudhakar Investment Equity, in percentages
+- Sudhakar Debt Amount - Sudhakar Debt Amount, in lakhs INR
+- Karan Investment Amount - Karan Investment Amount, in lakhs INR
+- Karan Investment Equity - Karan Investment Equity, in percentages
+- Karan Debt Amount - Karan Debt Amount, in lakhs INR

@@ -1,5 +1,5 @@
-# Nenu-Super-Women
-Dataset of Nenu Super Women (season 1) in Aha OTT Platform.
+# Nenu-Super-Woman
+Dataset of Nenu Super Woman (season 1) in Aha OTT Platform.
 
 Dataset has below features/columns:
 - Season Number - Season number
@@ -11,7 +11,7 @@ Dataset has below features/columns:
 - Industry - Industry name or type
 - Business Description - Business Description
 - Company Website - Company Website URL
-- Entrepreneur Names - Name of the entrepreneur
+- Entrepreneur Names - Name of the entrepreneurs
 - Number of Presenters - Number of presenters
 - Pitchers Average Age - All pitchers average age, <30 young, 30-50 middle, >50 old
 - Started in - Year in which startup was started/incorporated
@@ -19,7 +19,7 @@ Dataset has below features/columns:
 - Monthly Sales - Total monthly sales, in lakhs
 - Gross Margin - Gross margin/profit of company, in percentages
 - Net Margin - Net margin/profit of company, in percentages
-- SKUs - Stock Keeping Units
+- SKUs - Stock Keeping Units, at the time of pitch
 - Original Ask Amount - Original Ask Amount, in lakhs INR
 - Original Offered Equity - Original Offered Equity, in percentages
 - Valuation Requested - Valuation Requested, in lakhs INR
@@ -35,6 +35,7 @@ Dataset has below features/columns:
 - Equity Per Angel - Equity Per Angel
 - Deal has conditions - Deal has conditions or not?
 - Has Patents - Pitcher has Patents? 1-yes, 0-no
+- Royalty deal - Deal has royalty or not?
 - Deepa Investment Amount - Deepa Investment Amount, in lakhs INR
 - Deepa Investment Equity - Deepa Investment Equity, in percentages
 - Deepa Debt Amount - Deepa Debt Amount, in lakhs INR
@@ -56,3 +57,10 @@ Dataset has below features/columns:
 - Karan Investment Amount - Karan Investment Amount, in lakhs INR
 - Karan Investment Equity - Karan Investment Equity, in percentages
 - Karan Debt Amount - Karan Debt Amount, in lakhs INR
+- Deepa Present - Whether Deepa present in episode or not
+- Renuka Present - Whether Renuka present in episode or not
+- Sridhar Present - Whether Sridhar present in episode or not
+- Rohit Present - Whether Rohit present in episode or not
+- Sindhura Present - Whether Sindhura present in episode or not
+- Sudhakar Present - Whether Sudhakar present in episode or not
+- Karan Present - Whether Karan present in episode or not
